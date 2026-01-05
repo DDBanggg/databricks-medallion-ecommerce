@@ -160,5 +160,4 @@ Do giới hạn về thời gian, dự án này tập trung vào Data Engineerin
 * Tích hợp **GitHub Actions** để chạy Unit Test mỗi khi merge code.
 
 ---
-> **Author:** Student at HUST (Hanoi University of Science and Technology)  
-> **Course:** Databricks Data Engineering Bootcamp
+> **Author:** Đoàn Đình Bằng
