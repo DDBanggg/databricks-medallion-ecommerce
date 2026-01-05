@@ -109,6 +109,7 @@ databricks-medallion-ecommerce/
 ├── tests/                      # Unit Test & Integration Test (SQL checks)
 ├── screenshot/                 # Hình ảnh minh họa cho README
 └── README.md                   # Tài liệu dự án
+```
 
 ## 🏁 7. Hướng Dẫn Cài Đặt (How to Run)
 
